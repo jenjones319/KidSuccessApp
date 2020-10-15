@@ -1,16 +1,13 @@
 import React from 'react';
-import Nav from './components/Nav';
 import 'About.css';
 
 
 export default function () {
     return (
 
-
-
 <div className = "About">
     <header className = "Header">
-        <nav className = "Nav">
+        <nav>
             <ul>
                 <li>Home</li>
                 <li>About</li>
